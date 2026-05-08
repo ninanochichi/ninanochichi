@@ -1,71 +1,107 @@
-# 김우진 | Frontend Developer
+<div align="center">
 
-> 사용자의 흐름을 읽고, 기능의 완성도를 끝까지 확인하는 프론트엔드 개발자입니다.  
-> React와 TypeScript를 중심으로 인증, 상태 관리, API 연동, 마이페이지, 추천/탐색 UI를 구현해왔습니다.
+# KIM WOOJIN
+
+### Frontend Developer
+
+<sub>UX-minded · Type-safe · AI-assisted</sub>
+
+<br />
+<br />
+
+<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>TanStack Query</kbd> <kbd>Zustand</kbd> <kbd>API Boundary</kbd> <kbd>Verification</kbd>
+
+<br />
+<br />
 
 [GitHub](https://github.com/ninanochichi) · [Tech Blog](https://ideas09785.tistory.com/) · [Rallit Resume](https://www.rallit.com/resumes/1608450@kedw158/%EA%B9%80%EC%9A%B0%EC%A7%84)
 
----
-
-## What I Care About
-
-- 사용자가 길을 잃지 않는 화면 흐름과 명확한 피드백을 중요하게 생각합니다.
-- 기능 구현 이후에도 로딩, 빈 상태, 에러 상태, 새로고침 상황까지 확인합니다.
-- API 응답과 화면 사이의 경계를 정리해 변경에 흔들리지 않는 구조를 지향합니다.
-- AI 도구는 결과물을 그대로 쓰기보다 요구사항 정리, 코드 탐색, 구현 방향 비교, 검증 보조에 목적별로 활용합니다.
+</div>
 
 ---
 
-## Tech Stack
+### About Me
 
-**Core**  
-<kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>Tailwind CSS</kbd> <kbd>Vite</kbd>
+React와 TypeScript를 중심으로 사용자 흐름이 자연스럽게 이어지는 화면을 구현합니다.  
+인증, 마이페이지, API 연동, 추천/탐색 UI처럼 사용자가 자주 마주치는 기능을 만들며, 구현 후에는 로딩·빈 상태·에러 상태·새로고침 흐름까지 확인하려고 합니다.
 
-**State & Data**  
-<kbd>TanStack Query</kbd> <kbd>Zustand</kbd> <kbd>Axios</kbd> <kbd>React Router</kbd> <kbd>MSW</kbd>
-
-**Workflow**  
-<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Vercel</kbd> <kbd>Figma</kbd> <kbd>Discord</kbd>
+- UI 컴포넌트는 화면의 역할이 드러나도록 작게 나누고, 반복되는 로직은 훅과 도메인 단위로 정리합니다.
+- API 응답은 화면 곳곳에 흩뿌리기보다 타입과 데이터 경계에서 다루는 방식을 선호합니다.
+- AI 도구는 요구사항 정리, 코드베이스 탐색, 구현 방향 비교, 디버깅 보조에 목적별로 활용합니다.
 
 ---
 
-## Selected Projects
+### Tech Stack
 
-| Project | Role / Focus | Links |
-| --- | --- | --- |
-| **PGTI 게임 추천 서비스** | 취향 기반 게임 추천 서비스. 인증 흐름, 마이페이지, 매칭/추천 UI, 고객센터 챗봇 흐름 구현 및 도메인 기반 폴더 구조 정리 | [Deploy](https://oz-union-16-fe.vercel.app/) · [GitHub](https://github.com/Oz-union-16-Team-1/oz_union_16_FE) |
-| **커뮤니티 서비스** | 게시글, 댓글, 좋아요, 마크다운 에디터 구현. React Query와 Zustand 기반 상태 관리, Axios 인터셉터와 MSW 흐름 구성 | [Deploy](https://oz-externship-fe-07-team1.vercel.app) · [GitHub](https://github.com/ninanochichi/oz_externship_fe_07_team1) |
-| **영화 탐색 서비스** | 영화 목록, 상세, 검색, 로그인/회원가입, 마이페이지, 다크모드 UI 구현. Supabase Auth 기반 사용자 흐름 구성 | [Deploy](https://oz-16-react-mini-three.vercel.app) · [GitHub](https://github.com/ninanochichi/oz_16_react_mini) |
-| **맛집 찜 서비스** | 위치 기반 정렬, 즐겨찾기, 모달 인터랙션을 포함한 맛집 탐색 경험 구현 | [Deploy](https://oz-16-react-event.vercel.app) · [GitHub](https://github.com/ninanochichi/oz_16_react_event) |
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=F97316" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=A78BFA" alt="Vite" />
+<br />
+<img src="https://img.shields.io/badge/TanStack_Query-161B22?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/Zustand-161B22?style=flat-square&logo=react&logoColor=E5E7EB" alt="Zustand" />
+<img src="https://img.shields.io/badge/Axios-161B22?style=flat-square&logo=axios&logoColor=8B5CF6" alt="Axios" />
+<img src="https://img.shields.io/badge/React_Router-161B22?style=flat-square&logo=reactrouter&logoColor=F43F5E" alt="React Router" />
+<br />
+<img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=F0F6FC" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-21262D?style=flat-square&logo=vercel&logoColor=F0F6FC" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-21262D?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+<img src="https://img.shields.io/badge/Discord-21262D?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" />
+
+</div>
 
 ---
 
-## Engineering Notes
+### Selected Work
 
-**1. UI와 API 사이의 경계 정리**  
-API 응답이 화면 컴포넌트에 직접 흩어지지 않도록 타입과 데이터 흐름을 분리하는 방식을 선호합니다. 화면은 사용자의 상태를 표현하는 데 집중하고, 데이터 형태의 흔들림은 어댑터나 훅 경계에서 흡수하려고 합니다.
-
-**2. 인증과 세션 흐름 개선**  
-Access Token 관리 정책을 sessionStorage와 인메모리 관리 중심으로 정리해 새로고침, 탭 이동, 인증 만료 상황에서 사용자 흐름이 끊기지 않도록 개선했습니다.
-
-**3. 기능 단위 유지보수성**  
-auth, matching, mypage처럼 도메인 기준으로 폴더를 나누고, 반복되는 UI와 비즈니스 로직을 컴포넌트와 훅 단위로 정리하는 방향을 지향합니다.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PGTI 게임 추천 서비스</h3>
+      <p>취향 기반 게임 추천 서비스. 인증 흐름, 마이페이지, 매칭/추천 UI, 고객센터 챗봇 흐름을 구현하고 도메인 기반 구조를 정리했습니다.</p>
+      <p><a href="https://oz-union-16-fe.vercel.app/">Deploy</a> · <a href="https://github.com/Oz-union-16-Team-1/oz_union_16_FE">GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>커뮤니티 서비스</h3>
+      <p>게시글, 댓글, 좋아요, 마크다운 에디터를 구현했습니다. React Query와 Zustand로 서버/클라이언트 상태를 나누어 관리했습니다.</p>
+      <p><a href="https://oz-externship-fe-07-team1.vercel.app">Deploy</a> · <a href="https://github.com/ninanochichi/oz_externship_fe_07_team1">GitHub</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>영화 탐색 서비스</h3>
+      <p>영화 목록, 상세, 검색, 로그인/회원가입, 마이페이지, 다크모드 UI를 구현했습니다. Supabase Auth 기반 사용자 흐름을 구성했습니다.</p>
+      <p><a href="https://oz-16-react-mini-three.vercel.app">Deploy</a> · <a href="https://github.com/ninanochichi/oz_16_react_mini">GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>소셜 로그인 실험</h3>
+      <p>Kakao/Naver OAuth 흐름을 Express, Axios, CORS, 환경변수 설정과 함께 실험하며 인증 플로우를 학습했습니다.</p>
+      <p><a href="https://github.com/ninanochichi/kakao-naver-login">GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## AI-assisted Workflow
+### Engineering Notes
 
-| Step | How I Use AI |
+| Area | Focus |
 | --- | --- |
-| Context | 요구사항, API 명세, 기존 코드 구조를 먼저 정리하고 작업 범위를 좁힙니다. |
-| Build | Codex, ChatGPT, Gemini, Manus를 목적에 맞게 나눠 구현 방향 비교와 코드 탐색에 활용합니다. |
-| Review | 제안된 구현은 프로젝트 구조와 사용자 흐름에 맞게 다듬고, lint/build와 브라우저 확인으로 마무리합니다. |
+| UI State | 로딩, 빈 상태, 에러 상태를 명확하게 분리해 사용자가 현재 상황을 이해할 수 있게 만듭니다. |
+| API Boundary | API 응답 변화가 화면 컴포넌트에 직접 번지지 않도록 타입과 데이터 경계를 정리합니다. |
+| Auth Flow | Access Token 관리, 새로고침, 탭 이동, 만료 상황까지 고려해 세션 흐름을 안정화합니다. |
+| AI Workflow | Codex, ChatGPT, Gemini, Manus를 활용해 요구사항 정리, 코드 탐색, 구현 검토, 문서화를 보조합니다. |
 
 ---
 
-## Currently Improving
+<div align="center">
 
-- React와 TypeScript 기반의 컴포넌트 설계
-- TanStack Query를 활용한 서버 상태 관리
-- 인증 흐름과 사용자 세션 안정성
-- AI 에이전트를 활용한 개발 워크플로우 정리
+<sub>Building calm interfaces with React, TypeScript, and steady verification.</sub>
+
+</div>
